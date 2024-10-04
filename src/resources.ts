@@ -1,5 +1,5 @@
 import { ImageSource, Loader } from "excalibur";
-import frame from "./assets/Frame.png";
+import frame from "./assets/frame.png";
 import texture from "./assets/texture2.png";
 import texture2 from "./assets/frameH.png";
 
